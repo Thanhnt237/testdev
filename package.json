@@ -1,5 +1,5 @@
 {
-  "name": "lib-managerment-sytem-server",
+  "name": "testdev",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,15 +9,10 @@
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/server.js\""
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Thanhnt237/Lib-Managerment-Sytem-Server.git"
+    "type": "git"
   },
-  "author": "ThinhDoan",
+  "author": "Thanh",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Thanhnt237/Lib-Managerment-Sytem-Server/issues"
-  },
-  "homepage": "https://github.com/Thanhnt237/Lib-Managerment-Sytem-Server#readme",
   "dependencies": {
     "@types/compression": "^1.7.2",
     "@types/cors": "^2.8.12",
