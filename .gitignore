@@ -107,3 +107,4 @@ typings/
 .idea
 
 ./app/logs
+dist
